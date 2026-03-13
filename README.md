@@ -216,6 +216,10 @@ Key findings from the correlation heatmap:
 
 ---
 
+## Dashboard Preview
+
+![Vendor Performance Dashboard](dashboard/dashboard.png)
+
 ## Recommendations
 
 Based on the analysis, the following strategic actions are recommended:
