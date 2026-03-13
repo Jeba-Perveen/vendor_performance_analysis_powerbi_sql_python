@@ -100,8 +100,8 @@ Place your `inventory.db` SQLite file inside the project root (same directory as
 - `sales`
 - `begin_inventory`
 - `vendor_invoice`
-- `end_inventory'
-- 'purchases'
+- `purchases`
+- `end_inventory`
 
 ### 3. Launch Jupyter Notebook
 
