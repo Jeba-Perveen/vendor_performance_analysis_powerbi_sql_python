@@ -72,8 +72,8 @@ pip install -r requirements.txt
 - `sales`
 - `begin_inventory`
 - `vendor_invoice`
-- `end_inventory'
-- 'purchases'
+- `end_inventory`
+- `purchases`
 
 ### Dataset link
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1SdmViclEtM19mSkJ6OEtsMENPc2JZclpTd3xBQ3Jtc0trLXh3NllSUXp2eVYyTnFCX05aaFhoQVRlMkhYU296X3pGMFJTVGZtdUFBQlk2bGR5ZHRPTmxEZG9QYjVQYUdQNjRNMGtmNERzU25LeVZGdGxJR1NmS19mZGhYY3hEVXlQOVdaRFdBU3Z1aUZUYTZaOA&q=https%3A%2F%2Ftopmate.io%2Fayushi_mishra%2F1557424&v=nmCfNHjfgEY
