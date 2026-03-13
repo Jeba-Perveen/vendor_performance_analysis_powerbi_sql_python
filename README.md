@@ -15,6 +15,7 @@
 - [Business Problem](#business-problem)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Research Questions & Key Findings](#research-questions--key-findings)
+- [Dashboard](#Dashboard)
 - [Recommendations](#recommendations)
 - [Author](#Author)
 
@@ -216,7 +217,7 @@ Key findings from the correlation heatmap:
 
 ---
 
-## Dashboard Preview
+## Dashboard 
 
 ![Vendor Performance Dashboard](dashboard/dashboard.png)
 
