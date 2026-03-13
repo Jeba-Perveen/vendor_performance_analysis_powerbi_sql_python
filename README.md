@@ -23,20 +23,25 @@
 ## Project Structure
 
 ```
- vendor-performance-analysis/
-├──  data/
+vendor-performance-analysis/
+│
+├── data/
 │   └── inventory.db
-├──  notebooks/
-│   └── exploratory_data_analysis.ipynb
-    └── vendor_performance_analysis.ipynb                   
+│
+├── notebooks/
+│   ├── exploratory_data_analysis.ipynb
+│   └── vendor_performance_analysis.ipynb
+│
 ├── scripts/
-    └── ingestion_db.py
-    └── get_vendor_summary.py      
-├──  dashboard/
-     └── vendor_performance_dashboard.pbix  
-├──  README.md
-├── vendor performance report.pdf
-├── .gitignore                        
+│   ├── ingestion_db.py
+│   └── get_vendor_summary.py
+│
+├── dashboard/
+│   └── vendor_performance_dashboard.pbix
+│
+├── README.md
+├── vendor_performance_report.pdf
+└── .gitignore
 ```
 
 ---
